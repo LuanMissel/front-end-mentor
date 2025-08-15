@@ -1,0 +1,100 @@
+html {
+    background-color: #141414;
+}
+
+header {
+    margin-bottom: 100px;
+}
+
+body {
+    margin: 0px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 80px;
+}
+
+main {
+    color: white;
+    text-align: center;
+    max-width: 400px;
+    height: 500px;
+    margin: auto;
+    background-color: #1F1F1F;
+}
+
+a {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 30px;
+    text-decoration: none;
+    color: white;
+    
+}
+
+a:hover {
+    background-color: #C4F82A;
+}
+
+#g1 {
+    display: block;
+    margin: auto;
+    background-color: #333333;
+    height: 10px;
+    width: 300px;
+    padding 25px;
+    margin-bottom: 20px;
+}
+
+#f1 {
+    display: block;
+    margin: auto;
+    background-color: #333333;
+    height: 10px;
+    width: 300px;
+    padding 25px;
+    margin-bottom: 20px;
+    
+}
+
+#l1 {
+    display: block;
+    margin: auto;
+    background-color: #333333;
+    height: 10px;
+    width: 300px;
+    padding 25px;
+    margin-bottom: 20px;
+}
+
+#t1 {
+    display: block;
+    margin: auto;
+    background-color: #333333;
+    height: 10px;
+    width: 300px;
+    padding 25px;
+    margin-bottom: 20px;
+}
+
+#i1 {
+    text-align: center;
+    display: block;
+    margin: auto;
+    background-color: #333333;
+    height: 10px;
+    width: 300px;
+    padding 25px;
+    margin-bottom: 20px;
+}
+
+#London {
+    color: #C4F82A;
+    margin-bottom: 20px;
+}
+
+#Front {
+    color: #333333;
+}
